@@ -30,9 +30,7 @@ public class Client {
 		              product=new Product();
 		              product.setProductName(name);
 		              product.setPrice(p);
-		              try {
-		            	  
-		              }
+		           
 		}
 	}
 	
